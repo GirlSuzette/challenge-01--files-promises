@@ -1,0 +1,95 @@
+{
+    "grano": [{
+        "name": {
+            "spanish": "Arroz",
+            "english": "rice"
+        },
+        "type": "grano"
+    }, {
+        "name": {
+            "spanish": "Trigo",
+            "english": "wheat"
+        },
+        "type": "grano"
+    }, {
+        "name": {
+            "spanish": "Avena",
+            "english": "oats"
+        },
+        "type": "grano"
+    }, {
+        "name": {
+            "spanish": "Cebada",
+            "english": "barley"
+        },
+        "type": "grano"
+    }, {
+        "name": {
+            "spanish": "Harina",
+            "english": "flour"
+        },
+        "type": "grano"
+    }],
+    "vegetal": [{
+        "name": {
+            "spanish": "Zanahoria",
+            "english": "carrot"
+        },
+        "type": "vegetal"
+    }, {
+        "name": {
+            "spanish": "Maiz",
+            "english": "corn"
+        },
+        "type": "vegetal"
+    }, {
+        "name": {
+            "spanish": "Elote",
+            "english": "corn cob"
+        },
+        "type": "vegetal"
+    }, {
+        "name": {
+            "spanish": "Calabaza",
+            "english": "pumpkin"
+        },
+        "type": "vegetal"
+    }, {
+        "name": {
+            "spanish": "Papa",
+            "english": "pope"
+        },
+        "type": "vegetal"
+    }],
+    "fruta": [{
+        "name": {
+            "spanish": "Manzana",
+            "english": "apple"
+        },
+        "type": "fruta"
+    }, {
+        "name": {
+            "spanish": "Mango",
+            "english": "mango"
+        },
+        "type": "fruta"
+    }, {
+        "name": {
+            "spanish": "Fresa",
+            "english": "strawberry"
+        },
+        "type": "fruta"
+    }, {
+        "name": {
+            "spanish": "Durazno",
+            "english": "peach"
+        },
+        "type": "fruta"
+    }, {
+        "name": {
+            "spanish": "Piña",
+            "english": "pineapple"
+        },
+        "type": "fruta"
+    }]
+}
